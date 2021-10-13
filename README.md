@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravusaab
+- 👋 Hi, I’m ravi
 - 👀 I’m interested in coding in c++,python
 - 🌱 I’m currently learning bhai gurdas institue of techonology 
 -
